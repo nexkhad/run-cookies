@@ -1,6 +1,8 @@
 import puppeteer from 'puppeteer';
 import fs from 'fs/promises'; // Use fs/promises for async file reading
 import { setTimeout } from 'timers/promises';
+import chromium from "@sparticuz/chromium";
+
 
 async function loadCookies(filePath) {
   try {
