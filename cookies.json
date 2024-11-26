@@ -1,0 +1,30 @@
+[
+    {
+      "name": "CSRF-TOKEN",
+      "value": "l9zqxf4caia",
+      "domain": "www.dubaievisaservices.com",
+      "path": "/",
+      "expires": -1,
+      "size": 21,
+      "httpOnly": false,
+      "secure": false,
+      "session": true,
+      "priority": "Medium",
+      "sameParty": false,
+      "sourceScheme": "Secure"
+    },
+    {
+      "name": "JSESSIONID",
+      "value": "199631A60DCFD9724DF73A503FCAE84A",
+      "domain": "www.dubaievisaservices.com",
+      "path": "/",
+      "expires": -1,
+      "size": 42,
+      "httpOnly": true,
+      "secure": true,
+      "session": true,
+      "priority": "Medium",
+      "sameParty": false,
+      "sourceScheme": "Secure"
+    }
+  ]
