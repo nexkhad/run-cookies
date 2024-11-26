@@ -51,7 +51,7 @@ async function run() {
       }
 
       // Wait for 5 minutes (300,000 milliseconds)
-      await setTimeout(30000);
+      await setTimeout(300000);
     } catch (error) {
       console.log('Error during page reload:', error);
       await browser.close()
